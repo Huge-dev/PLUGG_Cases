@@ -1,9 +1,9 @@
 const cacheName = "Legal Company-PLUGG Cases-1.0";
 const contentToCache = [
     "Build/PLUGG.loader.js",
-    "Build/PLUGG.framework.js.br",
-    "Build/PLUGG.data.br",
-    "Build/PLUGG.wasm.br",
+    "Build/PLUGG.framework.js",
+    "Build/PLUGG.data",
+    "Build/PLUGG.wasm",
     "TemplateData/style.css"
 
 ];
